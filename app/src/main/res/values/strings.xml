@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="sample">Welcome to notes application</string>
+    <string name="delete_button">delete button</string>
+    <string name="add">Add</string>
+    <string name="hints">enter the text into notes</string>
+</resources>
